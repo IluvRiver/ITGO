@@ -8,8 +8,9 @@
 
 [역할] 
 
-- 이충민(프론트엔드)
+- 이충민(팀장, 프론트엔드, CI/CD)
 - 박재용(백엔드)
+- 전주호(백엔드)
 
 [기능] 
 
@@ -24,10 +25,6 @@
 
 [시스템 구성도]
 
-![스크린샷 2024-07-10 오후 4.09.58.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c39f9d4-4854-40c4-8c43-15bedef64417/d63087b5-b0b4-4ce4-82d6-17042ed3b632/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.09.58.png)
-
 ## 구성한 페이지
 
 https://www.figma.com/design/U98Pt2xI8Leu7aiasFlznH/Untitled?node-id=0-1&t=Eb9Zr1Tfvp6GLiVT-1
-
-## 발표자료
