@@ -25,6 +25,42 @@
 
 [시스템 구성도]
 
+[기술 스택]
+- Server
+  - Java 17
+  - Spring Boot 3.1.4
+  - Spring Data JPA
+- Testing
+  - Mockito
+  - Junit 5
+  - Postman
+- Scrapper
+  - Python 3
+  - FastAPI
+- DB
+  - MySQL
+  - MongoDB
+- DevOps
+  - AWS EC2 (Ubuntu)
+  - AWS RDS
+  -  MongoDB Atlas
+  -  Nginx
+  -  Jenkins
+  -  Docker
+  -  Github
+- Communication
+  - Notion
+  - Swagger
+
+
+
+Backend System Architecture
+SystemArchitecture
+
+
+Backend Deploy Architecture
+DeployArchitecture
+
 ## 구성한 페이지
 
 https://www.figma.com/design/U98Pt2xI8Leu7aiasFlznH/Untitled?node-id=0-1&t=Eb9Zr1Tfvp6GLiVT-1
