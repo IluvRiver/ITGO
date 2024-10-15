@@ -1,4 +1,6 @@
 # IT 중고거래 통합 플랫폼 ITGO
+### Backend Deploy Architecture
+![DeployArchitecture drawio](https://github.com/user-attachments/assets/e5aeef39-ea4b-41fa-8242-984fe58f5036)
 
 [프로젝트 소개] 
 
@@ -84,8 +86,6 @@
 ![SystemArchitecture drawio](https://github.com/user-attachments/assets/da378ddc-c498-4f32-8428-7fee6acb3104)
 
 
-### Backend Deploy Architecture
-![DeployArchitecture drawio](https://github.com/user-attachments/assets/e5aeef39-ea4b-41fa-8242-984fe58f5036)
 
 ## 구성한 페이지
 
