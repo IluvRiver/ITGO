@@ -1,7 +1,5 @@
 # IT 중고거래 통합 플랫폼 ITGO
 
-![노트북 스펙 비교.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c39f9d4-4854-40c4-8c43-15bedef64417/01aa9c46-2dba-4977-9fbe-e812962d9946/3c17500c-de57-4ba7-b008-d8ed4c9be574.png)
-
 [프로젝트 소개] 
 
 - IT전용 중고거래 통합 플랫폼
@@ -13,15 +11,45 @@
 - 전주호(백엔드, CI/CD)
 
 [기능] 
+- 회원
+  - 회원가입 
+- 프로필
+  - 프로필 조회
+  - 프로필 수정
+- 기기
+  - 전체 기기 리스트 조회
+  - 기기 카테고리 조회
+  - 카테고리별 기기 리스트 조회
+  - 모바일 기기 정보 조회
+  - 노트북 기기 정보 조회
+- 중고 게시글
+  - 전체 게시글 리스트 조회
+  - 좋아요한 게시글 리스트 조회
+  - 카테고리별 게시글 리스트 조회
+  - 위치별 게시글 리스트 조회
+  - 게시글 세부 조회
+  - 게시글 검색
+    - 키워드로 검색
+    - 최근 검색 키워드 리스트 조회
+- 관심
+  - 관심 기기 등록
+  - 관심 게시글 등록
+  - 관심 위치 등록
+  - 관심 기기 삭제
+  - 관심 게시글 삭제
+  - 관심 위치 삭제
+  - 관심 기기 리스트 조회
+  - 관심 게시글 리스트 조회
+  - 관심 위치 리스트 조회
+  - 관심 기기 검색
+  - 관심 위치 검색
 
-- 노트북 스펙 비교
-- 스마트폰 스펙 비교
-- 회원가입
-- 로그인
-- 위치설정 expo location
-- 인증문자 firebase notification
-- 동네검색
-- 중고거래 통합 리스트
+<br/>
+
+#### 중고 거래 게시글 자동 스크래퍼
+- 중고 거래 게시글 스크래핑
+  - 게시글에서 GPT를 사용해 제품명 추출
+  - 중복을 제외한 게시글 데이터베이스에 저장
 
 [시스템 구성도]
 
@@ -56,10 +84,12 @@
 
 Backend System Architecture
 SystemArchitecture
+![SystemArchitecture drawio](https://github.com/user-attachments/assets/da378ddc-c498-4f32-8428-7fee6acb3104)
 
 
 Backend Deploy Architecture
 DeployArchitecture
+![DeployArchitecture drawio](https://github.com/user-attachments/assets/e5aeef39-ea4b-41fa-8242-984fe58f5036)
 
 ## 구성한 페이지
 
