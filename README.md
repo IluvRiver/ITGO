@@ -51,8 +51,6 @@
   - 게시글에서 GPT를 사용해 제품명 추출
   - 중복을 제외한 게시글 데이터베이스에 저장
 
-[시스템 구성도]
-
 [기술 스택]
 - Server
   - Java 17
@@ -82,12 +80,12 @@
 
 
 
-Backend System Architecture
+##Backend System Architecture
 SystemArchitecture
 ![SystemArchitecture drawio](https://github.com/user-attachments/assets/da378ddc-c498-4f32-8428-7fee6acb3104)
 
 
-Backend Deploy Architecture
+##Backend Deploy Architecture
 DeployArchitecture
 ![DeployArchitecture drawio](https://github.com/user-attachments/assets/e5aeef39-ea4b-41fa-8242-984fe58f5036)
 
